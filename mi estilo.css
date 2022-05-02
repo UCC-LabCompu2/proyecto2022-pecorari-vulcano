@@ -1,4 +1,29 @@
-#TituloPrincipal{
-    color: green }
+body{
+    background-image: url("Imagenes/Fondo con pez.jpg");
+    background-size: 99% 330%;
+    text-align: center;
+    font-family: 'Gugi', cursive;
+
+}
+#TituloPrincipal
+{
+    color: green
+    text-position:
+
+}
 #TituloJugar{color: #48ff00;}
 
+
+div
+{
+
+}
+div{
+    padding: 5px 30px;
+}
+#TituloPrincipal
+{
+    color: green
+    text-align: center;
+}
+#TituloJugar{color: #48ff00;}
