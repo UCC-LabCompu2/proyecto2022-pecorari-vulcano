@@ -1,5 +1,12 @@
-# proyecto2022
-Estructura de Proyecto Lab de Compu II - 2022
+# juego FLAPPY FISH
+esta pagina corresponde al juego llamado "FLAPPY FISH".
+
+## Autores
+ Santiago Pecorari y Rocio Vulcano
+
+## Tecnologias usadas 
+ HTML5
+ CCS3
 
 ## Requisitos del Primer Parcial
 
