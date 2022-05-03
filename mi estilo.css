@@ -14,16 +14,47 @@ body{
 #TituloJugar{color: #48ff00;}
 
 
-div
+#div1
 {
-
+    padding: 10px 30px;
+    font-family: Algerian;
+    color: #ff0000;
 }
-div{
-    padding: 5px 30px;
+#div2{
+    padding: 10px 30px;
+    font-family: Arial ;
+    color: #ff7300;
 }
 #TituloPrincipal
 {
-    color: green
+    color: #eeff00;
+    font-family: Arial ;
     text-align: center;
 }
-#TituloJugar{color: #48ff00;}
+#TituloJugar{
+    color: #48ff00
+;
+}
+
+#bodyjugar{
+    background-image: url("Imagenes/2.jpg");
+    background-size: 99% 8130%;
+    text-align: center;
+    font-family: 'Gugi', cursive;
+}
+#atras{
+
+    padding: 10px 30px;
+}
+#bodycomojugar{
+    background-image: url("Imagenes/como jugar.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: 'Gugi', cursive;
+}
+#autores{
+    padding: 10px 30px;
+    font-family: Arial ;
+    color: #ffd500;
+}
