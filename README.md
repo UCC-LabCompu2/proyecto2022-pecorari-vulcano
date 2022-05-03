@@ -1,99 +1,54 @@
-# juego FLAPPY FISH
-esta pagina corresponde al juego llamado "FLAPPY FISH".
+# Proyecto de Laboratorio II
+###Pagina Web
+####Pecorari, Santiago   Vulcano, Rocio
 
-## Autores
- Santiago Pecorari y Rocio Vulcano
+🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟
 
-## Tecnologias usadas 
- HTML5
- CCS3
+El proyecto que hemos abordado en la materia Laboratorio de Computacion II trata sobre la creacion de una pagina web, el cual conlleva el aprendizaje de los necesarios leguanjes de programacion
+* **HTML 5**
+* **CSS**
 
-## Requisitos del Primer Parcial
+Y el desarrollador de software que nos facilito la creacion de nuestro proyecto en conjunto con nuestros compañeros
+* **GitHub**
 
-### Sobre el Repositorio
-- [ ] El proyecto debe estar subido al repositorio adecuado "Proyecto2022-ApellidoAlumno1-ApellidoAlumno2"
-- [ ] Modificar el Readme.MD y colocar información del proyecto/página (mínimamente: título del proyecto, autores con nombre y apellido, link de gh-pages, contenido de la página,  listado de tecnologías usadas, etc)
-- [ ] La estructura del proyecto debe ser adecuada (crear una carpeta para las imágenes, otra para los sketch/mockups/Wireframes). Es importante que contenga SKETCH y MOCKUP/WIREFRAME (debe estar en formato: PDF, PNG o JPG).
-- [ ] El código debe estar pusheado en el repositorio (emplear gh-pages ó publicar la página desde el main), y no debe haber diferencias entre **main** y **gh-pages** (verificar de realizar el Merge).
-- [ ] Publicar la Web empleando GitHubPages
-- [ ] El repositorio no debe contener archivos innecesarios (no debe contener .idea o .vsc, en todo caso emplear **.gitignore**)
+Junto con
 
-### Sobre el Proyecto General
-- [ ] La página principal debe llamarse index
-- [ ] Identar correctamente el código (en Webstorm Ctrl+Alt+L)
-- [ ] No debe haber errores presentes (realizar *Code* > *Inspect Code* para verificar que no haya errores)
-- [ ] Se debe emplear algún favicon
-- [ ] Emplear alguna fuente de google fonts o subir al proyecto alguna fuente externa
-- [ ] Debe haber navegación entre todas las páginas
+* **WebStorm**
 
-### Sobre el HTML
-- [ ] Todas las etiquetas deben estar en minúscula
-- [ ] Poner comillas a todos los atributos
-- [ ] Title debe contener el título de la página
-- [ ] En el ```<head></head>``` incluir las etiquetas ```<meta>``` detallando: autor, descripcion y palabras clave
-- [ ] Emplear al menos 3 etiquetas semánticas diferentes (header, nav, aside, section, article, footer)
-- [ ] Emplear ```<header></header>```. En el contenido de la cabecera debe haber un título ```<h1></h1>```, puede tener color de fondo, algún logotipo, etc.
-- [ ] Debe haber por lo menos una etiqueta ```<img>``` en la página.
-- [ ] La estructura de la página debe estar definida con ```<div></div>```
-- [x] Debe contener al menos 3 elementos de tipo ```<input>``` o ```<select>``` ó ```<button>``` que le permitan al usuario ingresar valores para poder realizar un cálculo de un ejercicio.
-- [x] Debe contener un ```<canvas>```, para que posteriormente (en la 2da etapa) se grafique alguna imagen representativa del ejercicio. (el desarrollo del gráfico se realizará cuando se vea la unidad de “Orientación a Eventos”)
-- [ ] No espaciar con excesivos ```<br>```. Utilizar márgenes, paddings, etc.
-- [ ] No utilizar etiquetas deprecadas.
-- [ ] Todas las etiquetas deben estar correctamente cerradas
-- [ ] Los ids de los elementos deben ser unívocos
 
-### Sobre el CSS
-- [ ] El estilo de los elementos debe establecerse en un archivo CSS (prohibido poner el atributo style a los elementos o emplear estilos incrustados).
-- [x] El CSS debe contar mínimo con un tipo de cada forma (por Tag, por ID y por clase).
-- [x] Se debe emplear pseudoclase
-- [x] No emplear !important
+🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟
 
-### Sobre Accesibilidad:
-- [x] Toda imagen debe tener su etiqueta alt
-- [x] Todo ```<input>``` o ```<select>``` debe tener su ```<label>```
-- [x] Los labels deben contener el atributo **for** (el for debe contener el id del input al cual se referencia) 
-- [ ] Si hay una tabla en la página, debe contener ```<caption></caption>```
+## FLAPPY FISH
+#### *Nuestra Aplicacion Web*
 
-### Sobre las correcciones
-* Se corregirá el proyecto con el último commit realizado en Github hasta las 23:59 del día anterior a la fecha de entrega
-* Las notas serán de manera logarítmica: (Por ejemplo 60% 4; 70% 5,5; 80% 7; 90% 8,5)
+Flappy Fish es un juego creado para la utilizacion de usuarios con ninguna limitacion de rango de edad, ni necesidades de conocimientos tecnologicos o cientificos. Fue diseñado con un estilo que nos lleva a ubicarnos en las profundidades del mar, con sus colores y elementos caracteristicos, ya sean los objetos del oceano, como nuestro personaje de juego.
+El juego trata sobre un pez, como indica el nombre del mismo, que debe nadar por las profundidades del mar, esquivando ciertas cantidades de obstaculos que se le presentan en el camino. A medida que nuestro pecesito nada, va sumando puntaje en su recorrido, siempre y cuando no choque con ninguno de los objetos designados para esquivar.
+Al ingresar a nuestra Aplicacion Web, la misma consta con un MENÚ, que le solicita al usuario ingresar su nombre. Ademas, el menu incluye la opcion de "Jugar", que es la que comieza la partida, y por ultimo una opcion extra denominada "¿Cómo Jugar?" en la que nuestro usuario puede aprender como utilizar correctamente el juego.
+
+
+### INTEGRANTES
+|--------------------------------------------------------------------|
+| **SANTIAGO** | **PECORARI** | **2107026@ucc.edu.ar** | **2107026** |
+|--------------|--------------|------------------------|-------------| 
+| **ROCIO**    | **VULCANO**  | **2107174@ucc.edu.ar** | **2107174** |
+|--------------------------------------------------------------------|
+
+###FLAPPY FISH
+* [Link: Paginas de GitHub](https://ucc-labcompu2.github.io/proyecto2022-pecorari-vulcano/)
 
 
 
-## Requisitos del Segundo Parcial
+📤 Fecha de entrega
 
-### Sobre el proyecto general
-- [ ] Todas las correcciones y mejoras solicitadas durante el primer parcial deben estar corregidas.
-- [ ] No debe haber errores presentes en el código (realizar Code > Inspect Code para verificar que no haya errores)
-- [ ] No debe haber errores JavaScripts presentes. (ver con F12 si hay errores)
+04.05.2022
 
-### Sobre la funcionalidad JavaScript
-Se debe agregar funcionalidad Js a la página HTML+CSS desarrollada
-- [ ] Una función que compruebe si los valores ingresados son correctos, y si no lo son, que le indique al usuario por un alert, y que blanquee el contenido del campo.
-- [ ] Una función que calcule algo en base a los valores ingresados por el usuario en los inputs.
-- [ ] Una función que realice un dibujo sobre un canvas (debe ser representativo y acorde a los valores ingreados).
+🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟
 
-### Sobre la documentación
-- [ ] TODAS las funciones javaScript deben estar comentadas adecuadamente. [JsDoc](https://jsdoc.app/about-getting-started.html)
-   ```/**
-     * Descripción de que hace la función
-     * @method Nombre de la función
-     * @param {string} ParámetroA - Explicación de que valor almacena ParámetroA
-     * @param {number} ParámetroB - Explicación de que valor almacena ParámetroB
-     * @return Valor que retorna
-     */
-   ```
-   
-### Sobre las correcciones
-* Se corregirá el proyecto con el último commit realizado en Github hasta las 23:59 del día anterior a la fecha de entrega
-* Las notas serán de manera logarítmica: (Por ejemplo 60% 4; 70% 5,5; 80% 7; 90% 8,5)
-* Las sugerencias sobre el HTML y CSS realizadas en el anterior parcial dejen ser corregidas.
 
-   
-## Requisitos del FINAL
-- [ ] Todas las correcciones y mejoras solicitadas durante el primer y segundo parcial deben estar corregidas.
-- [ ] No debe haber errores presentes en el código (realizar Code > Inspect Code para verificar que no haya errores)
-- [ ] No debe haber errores JavaScript presentes (F12 > Consola)
-- [ ] Debe cumplir con TODOS los requisitos del 1er y 2do Parcial (si se agrego código nuevo en Js, se debe documentar, si hay nuevos inputs de html deben contener su label, etc)
-- [ ] El Canvas debe poseer animación con setInterval() o requestAnimationFrame()
-- [ ] El cálculo del ejercicio de física/etc debe ser el correcto, independientemente de los valores ingresados.
+
+
+
+
+
+
+
