@@ -1,62 +1,80 @@
-body{
+body
+{
     background-image: url("Imagenes/Fondo con pez.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 1100px 680px;
+    background-position: 130px 0.1px;
+    background-color: #51E8EF;
     text-align: center;
     font-family: 'Gugi', cursive;
-
+    text-anchor: start;
 }
 #TituloPrincipal
 {
-    color: green
-
-
+    color: #033c65;
+    font-family: 'Chelsea Market', cursive;
+    font-size: 80px;
+    letter-spacing: 7px;
+    position: center;
+    margin: 30px;
 }
-#TituloJugar{color: #48ff00;}
-
-
 #div1
 {
-    padding: 10px 30px;
-    font-family: Algerian;
-    color: #ff0000;
+    margin: 260px;
+    font-family: 'Chelsea Market', cursive;
+    font-size: 30px;
+    color: #11100c;
+    position: -ms-device-fixed;
 }
-#div2{
-    padding: 10px 30px;
-    font-family: Arial ;
-    color: #ff7300;
-}
-#TituloPrincipal
+#div2
 {
-    color: #eeff00;
-    font-family: Arial ;
-    text-align: center;
-}
-#TituloJugar{
-    color: #48ff00
-;
+    font-family: 'Chelsea Market', cursive;
+    color: #ff6500;
+    margin: -230px 0px;
+    font-size: 45px;
 }
 
-#bodyjugar{
+a:visited
+{
+    color: #ff6500;
+}
+
+#div3
+{
+    font-family: 'Chelsea Market', cursive;
+    color: #11100c;
+    margin: 260px 0px;
+    font-size: 30px;
+}
+
+
+#bodyjugar
+{
     background-image: url("Imagenes/2.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 1100px 649px;
+    background-position: 130px 0.1px;
+    background-color: #51E8EF;
     text-align: center;
     font-family: 'Gugi', cursive;
 }
-#atras{
+#atras
+{
 
     padding: 10px 30px;
 }
 #bodycomojugar{
-    background-image: url("Imagenes/como jugar.jpg");
+    background-image: url("Imagenes/Fondo juego ro.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: 1100px 649px;
+    background-position: 130px 0.1px;
+    background-color: #51E8EF;
     text-align: center;
     font-family: 'Gugi', cursive;
 }
 #autores{
     text-align: center;
+    text-align-all: center;
     position: fixed;
     bottom: 0;
 }
