@@ -1,6 +1,7 @@
 body{
     background-image: url("Imagenes/Fondo con pez.jpg");
-    background-size: 99% 330%;
+    background-repeat: no-repeat;
+    background-size: 100%;
     text-align: center;
     font-family: 'Gugi', cursive;
 
@@ -8,7 +9,7 @@ body{
 #TituloPrincipal
 {
     color: green
-    text-position:
+
 
 }
 #TituloJugar{color: #48ff00;}
@@ -38,7 +39,8 @@ body{
 
 #bodyjugar{
     background-image: url("Imagenes/2.jpg");
-    background-size: 99% 8130%;
+    background-repeat: no-repeat;
+    background-size: 100%;
     text-align: center;
     font-family: 'Gugi', cursive;
 }
@@ -48,13 +50,23 @@ body{
 }
 #bodycomojugar{
     background-image: url("Imagenes/como jugar.jpg");
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: 100%;
     text-align: center;
     font-family: 'Gugi', cursive;
 }
 #autores{
-    padding: 10px 30px;
-    font-family: Arial ;
-    color: #ffd500;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+#atras{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+#atras2{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
 }
