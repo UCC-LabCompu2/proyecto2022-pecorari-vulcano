@@ -18,7 +18,8 @@ body
     position: center;
     margin: 30px;
 }
-#div1
+
+.div1
 {
     margin: 260px;
     font-family: 'Chelsea Market', cursive;
@@ -26,6 +27,7 @@ body
     color: #11100c;
     position: -ms-device-fixed;
 }
+
 #div2
 {
     font-family: 'Chelsea Market', cursive;
