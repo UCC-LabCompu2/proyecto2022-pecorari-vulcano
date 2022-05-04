@@ -4,7 +4,7 @@
 
 #### Pecorari, Santiago   Vulcano, Rocio
 
-🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟
+🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 
 
 El proyecto que hemos abordado en la materia Laboratorio de Computacion II trata sobre la creacion de una pagina web, el cual conlleva el aprendizaje de los necesarios leguanjes de programacion
 * **HTML 5**
@@ -19,7 +19,7 @@ Junto con
 * **PhotoShop**
 
 
-🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟
+🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 
 
 ## FLAPPY FISH
 #### *Nuestra Aplicacion Web*
@@ -35,11 +35,11 @@ Al ingresar a nuestra Aplicacion Web, la misma consta con un MENÚ, que le solic
 |--------------|--------------|------------------------|-------------| 
 | **ROCIO**    | **VULCANO**  | **2107174@ucc.edu.ar** | **2107174** |
 
-###FLAPPY FISH
+### FLAPPY FISH
 * [Link De Proyecto](https://ucc-labcompu2.github.io/proyecto2022-pecorari-vulcano/)
 
 
-###GITHUB
+### GITHUB
 * [Link De GitHub](https://github.com/UCC-LabCompu2/proyecto2022-pecorari-vulcano.git)
 
 
@@ -48,7 +48,7 @@ Al ingresar a nuestra Aplicacion Web, la misma consta con un MENÚ, que le solic
 
 04.05.2022
 
-🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟
+🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 
 
 
 
