@@ -1,8 +1,8 @@
 # Proyecto de Laboratorio II
 
-###Pagina Web
+### Pagina Web
 
-####Pecorari, Santiago   Vulcano, Rocio
+#### Pecorari, Santiago   Vulcano, Rocio
 
 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟
 
