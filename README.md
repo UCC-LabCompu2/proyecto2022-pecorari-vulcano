@@ -1,5 +1,7 @@
 # Proyecto de Laboratorio II
+
 ###Pagina Web
+
 ####Pecorari, Santiago   Vulcano, Rocio
 
 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟
@@ -14,6 +16,7 @@ Y el desarrollador de software que nos facilito la creacion de nuestro proyecto 
 Junto con
 
 * **WebStorm**
+* **PhotoShop**
 
 
 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟 🐠 🐟
@@ -27,14 +30,17 @@ Al ingresar a nuestra Aplicacion Web, la misma consta con un MENÚ, que le solic
 
 
 ### INTEGRANTES
-|--------------------------------------------------------------------|
+
 | **SANTIAGO** | **PECORARI** | **2107026@ucc.edu.ar** | **2107026** |
 |--------------|--------------|------------------------|-------------| 
 | **ROCIO**    | **VULCANO**  | **2107174@ucc.edu.ar** | **2107174** |
-|--------------------------------------------------------------------|
 
 ###FLAPPY FISH
-* [Link: Paginas de GitHub](https://ucc-labcompu2.github.io/proyecto2022-pecorari-vulcano/)
+* [Link De Proyecto](https://ucc-labcompu2.github.io/proyecto2022-pecorari-vulcano/)
+
+
+###GITHUB
+* [Link De GitHub](https://github.com/UCC-LabCompu2/proyecto2022-pecorari-vulcano.git)
 
 
 
